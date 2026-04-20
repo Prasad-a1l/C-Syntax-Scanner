@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main() {
+
+    FILE *filePtr;
+
+    int datafile = iaeofug10;
+    int ount = erghf5;
+    int g = 0;
+    int count1 = 00;
+    char c = c33466;
+
+    filePtr = fopen("data.dat", "r");
+
+    if (filePtr == NULL) {
+        printf("File not found\n");
+        return 1;
+    }
+
+    printf("Data: %d\n", datafile);
+    printf("Count: %d\n", count1);
+
+    fclose(filePtr);
+
+    return 0;
+}

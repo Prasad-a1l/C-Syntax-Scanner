@@ -1,0 +1,26 @@
+Valid Preprocessor Directive: #include <stdio.h>
+Valid Identifier: int
+Valid Identifier: main
+Valid Identifier: FILE
+Valid Identifier: filePtr
+Error: Integer variable assigned identifier value -> int datafile = iaeofug10
+Error: Integer variable assigned identifier value -> int ount = erghf5
+Valid Identifier: int
+Valid Identifier: g
+Valid Identifier: int
+Valid Identifier: count1
+Error: Char variable assigned invalid identifier -> char c = c33466
+Valid Identifier: filePtr
+Valid Identifier: fopen
+Valid Identifier: if
+Valid Identifier: filePtr
+Valid Identifier: NULL
+Valid Identifier: printf
+Valid Identifier: return
+Valid Identifier: printf
+Valid Identifier: datafile
+Valid Identifier: printf
+Valid Identifier: count1
+Valid Identifier: fclose
+Valid Identifier: filePtr
+Valid Identifier: return
